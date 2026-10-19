@@ -1,5 +1,3 @@
-Website -  dforj.netlify.app
-
 # 🎯 Goals & Job Tracker (Nexus Productivity OS)
 
 A modern, privacy-focused, local-first productivity workspace built with **React**, **TypeScript**, and **Vite**. It seamlessly combines **Goal Setting**, **Job Application Tracking (Kanban & Calendar)**, **Skill Roadmaps**, and **Smart Task Management** into a single cohesive dashboard.
