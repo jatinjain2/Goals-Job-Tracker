@@ -141,3 +141,8 @@ Goals & Job Tracker/
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## 👤 Author
+
+Developed by **Jatin Jain**  
+- GitHub: [@jatinjain2](https://github.com/jatinjain2)
